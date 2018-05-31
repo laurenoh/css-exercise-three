@@ -49,4 +49,9 @@ nav {
 .location {
   border-bottom: 1px solid #333;
   padding: 20px;
+
+}
+
+.location:hover{
+  background-color: #D3D3D3;
 }
