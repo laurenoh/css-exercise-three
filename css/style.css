@@ -44,6 +44,7 @@ nav {
 .restaurant-list {
   background-color: #fff;
   padding-top: 45px;
+  width: 100%;
 }
 
 .location {
